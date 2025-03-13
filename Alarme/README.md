@@ -7,7 +7,7 @@ The project offers a user-friendly interface with two separate fields, one for e
 When the hour and minutes set for the alarm match the current time, the alarm will automatically emit a distinct beep to alert the user of the event. This feature is designed to provide a convenient and reliable way to manage reminders and appointments, ensuring users can keep track of their schedules efficiently and without hassle.
 
 ## Layout
-![image](https://github.com/lucasrsnd/Alarme/assets/144551298/b30494ea-2d8e-4224-834d-9e33dab066b8)
+![Image](https://github.com/user-attachments/assets/a90781fd-6cdf-4814-aecc-0ee47dfcba14)
 
 ## Languages ​​Used
 • Html
