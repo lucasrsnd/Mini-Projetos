@@ -13,7 +13,7 @@ Calculator offers a variety of powerful features to support accurate and fast ca
 • With an intuitive and easy-to-use interface, this calculator guarantees a pleasant and productive user experience for users of all levels. Whether for simple day-to-day tasks or more complex calculations, the Smart Calculator is a reliable and practical tool for various applications.
 
 ## Layout
-![calculator](https://github.com/lucasrsnd/Calculadora/assets/144551298/be85325f-e5c0-4268-a0f0-03969c560f7c)
+![Image](https://github.com/user-attachments/assets/fca31844-59b0-474b-ac6b-0cfda5694e89)
 
 ## Languages ​​Used
 • HTML
